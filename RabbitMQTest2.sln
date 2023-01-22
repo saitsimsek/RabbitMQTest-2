@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest2.Publisher", "RabbitMQTest2.Publisher\RabbitMQTest2.Publisher.csproj", "{EB4061BE-FF59-4407-95BE-048C2E33AF03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest2.Subscriber_Arac", "RabbitMQTest2.Subscriber_Arac\RabbitMQTest2.Subscriber_Arac.csproj", "{28199C2E-9B3D-45B5-B198-09BDFE68A85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest2.Subscriber_Tapu", "RabbitMQTest2.Subscriber_Tapu\RabbitMQTest2.Subscriber_Tapu.csproj", "{49A53E0C-B7C9-4A1A-A404-BA49651A2E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest2.Subscriber_SGK", "RabbitMQTest2.Subscriber_SGK\RabbitMQTest2.Subscriber_SGK.csproj", "{C60505CF-7FC4-480D-BA52-E64EE14510E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest2.Subscriber_EmekliSandigi", "RabbitMQTest2.Subscriber_EmekliSandigi\RabbitMQTest2.Subscriber_EmekliSandigi.csproj", "{E2E27232-1F9E-4C62-BE8C-3F91E447E80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4061BE-FF59-4407-95BE-048C2E33AF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4061BE-FF59-4407-95BE-048C2E33AF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4061BE-FF59-4407-95BE-048C2E33AF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4061BE-FF59-4407-95BE-048C2E33AF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28199C2E-9B3D-45B5-B198-09BDFE68A85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28199C2E-9B3D-45B5-B198-09BDFE68A85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28199C2E-9B3D-45B5-B198-09BDFE68A85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28199C2E-9B3D-45B5-B198-09BDFE68A85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A53E0C-B7C9-4A1A-A404-BA49651A2E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A53E0C-B7C9-4A1A-A404-BA49651A2E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A53E0C-B7C9-4A1A-A404-BA49651A2E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A53E0C-B7C9-4A1A-A404-BA49651A2E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60505CF-7FC4-480D-BA52-E64EE14510E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60505CF-7FC4-480D-BA52-E64EE14510E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60505CF-7FC4-480D-BA52-E64EE14510E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60505CF-7FC4-480D-BA52-E64EE14510E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E27232-1F9E-4C62-BE8C-3F91E447E80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E27232-1F9E-4C62-BE8C-3F91E447E80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E27232-1F9E-4C62-BE8C-3F91E447E80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E27232-1F9E-4C62-BE8C-3F91E447E80D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBADA101-A66B-45C1-A3A2-255BFC607E6D}
+	EndGlobalSection
+EndGlobal
